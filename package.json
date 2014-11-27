@@ -1,0 +1,28 @@
+{
+  "name": "remote-command",
+  "version": "0.1.0",
+  "description": "Simple script to run remote commands",
+  "main": "index.js",
+  "dependencies": {
+    "ssh2": "~0.3.6",
+    "commander": "~2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdobson/remote-command.git"
+  },
+  "keywords": [
+    "ssh",
+    "beaglebone"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/remote-command/issues"
+  },
+  "homepage": "https://github.com/mdobson/remote-command"
+}
